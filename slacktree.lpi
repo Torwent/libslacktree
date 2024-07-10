@@ -25,7 +25,7 @@
           <Version Value="11"/>
           <PathDelim Value="\"/>
           <Target>
-            <Filename Value="libtpaex32"/>
+            <Filename Value="libslacktree32"/>
           </Target>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
@@ -62,7 +62,7 @@
           <Version Value="11"/>
           <PathDelim Value="\"/>
           <Target>
-            <Filename Value="libtpaex64"/>
+            <Filename Value="libslacktree64"/>
           </Target>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
@@ -98,7 +98,7 @@
           <Version Value="11"/>
           <PathDelim Value="\"/>
           <Target>
-            <Filename Value="libtpaex64.so.aarch64" ApplyConventions="False"/>
+            <Filename Value="libslacktree64.so.aarch64" ApplyConventions="False"/>
           </Target>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
@@ -134,7 +134,7 @@
           <Version Value="11"/>
           <PathDelim Value="\"/>
           <Target>
-            <Filename Value="libtpaex64"/>
+            <Filename Value="libslacktree64"/>
           </Target>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
@@ -170,7 +170,7 @@
           <Version Value="11"/>
           <PathDelim Value="\"/>
           <Target>
-            <Filename Value="libtpaex64.dylib.aarch64" ApplyConventions="False"/>
+            <Filename Value="libslacktree64.dylib.aarch64" ApplyConventions="False"/>
           </Target>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
